@@ -1,0 +1,23 @@
+{
+	"id": "dbffb6f8-d824-4730-931a-f4f65eaa862c",
+	"createdAt": "2025-09-01T18:30:26.834Z",
+	"createdBy": "morten@neptune-software.com",
+	"attributes": [],
+	"locales": [
+		{
+			"isoCode": "EN"
+		}
+	],
+	"name": "tree_menu",
+	"description": null,
+	"fallbackLocale": "EN",
+	"application": "tree_menu",
+	"ver": "25.09.01.2030",
+	"package": "c877dd08-9709-4913-9537-942a8d001a08",
+	"active": true,
+	"deleted": false,
+	"baseModelId": null,
+	"enhancedBy": [],
+	"apps": [],
+	"baseModel": null
+}

@@ -1,0 +1,149 @@
+{
+	"id": "c877dd08-9709-4913-9537-942a8d001a08",
+	"createdAt": "2025-09-01T15:49:50.658Z",
+	"createdBy": "morten@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/mortenprom/tree-menu",
+		"branch": "main"
+	},
+	"name": "mortenprom-tree-menu",
+	"description": "Tree Menu",
+	"ver": "25.09.02.1031",
+	"enableCICD": true,
+	"internalReadOnly": false,
+	"oeVersion": null,
+	"excludeTemplateFiles": false,
+	"roles": [],
+	"apps": [
+		{
+			"id": "a90b15ae-80c3-4155-bf20-5d044788b018",
+			"application": "tree_menu",
+			"title": "",
+			"description": ""
+		}
+	],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [
+		{
+			"id": "e7658f7f-5052-4b1d-834b-f904c5c2c057",
+			"description": null,
+			"name": "top"
+		},
+		{
+			"id": "c55a3ab5-cca1-406a-afe0-44fcf453b9ee",
+			"description": null,
+			"name": "sub3"
+		},
+		{
+			"id": "8e790781-60bb-4ae2-986f-878a96304ab9",
+			"description": null,
+			"name": "sub2"
+		},
+		{
+			"id": "6aabd9c6-2918-4c01-b693-4d90766f160e",
+			"description": null,
+			"name": "sub4"
+		},
+		{
+			"id": "66a38647-b6c2-45b2-b6f1-a537ecd18848",
+			"description": null,
+			"name": "sub1"
+		}
+	],
+	"tile_layout": [],
+	"category": [
+		{
+			"id": "f742e389-85ad-45b3-bb4f-230a81b38f89",
+			"description": null,
+			"name": "tree-sub4"
+		},
+		{
+			"id": "e7f8c243-726c-4f73-a0fa-cccfae062561",
+			"description": null,
+			"name": "tree-sub2-no-tiles"
+		},
+		{
+			"id": "c75b8f86-6c2c-4e14-a000-7f1a5cb792a5",
+			"description": null,
+			"name": "tree-top"
+		},
+		{
+			"id": "806e14ea-761e-453e-ad7a-c5c32fea875a",
+			"description": null,
+			"name": "tree-sub1"
+		},
+		{
+			"id": "680df356-137b-4b79-99ab-449cd2fa5cb6",
+			"description": null,
+			"name": "tree-top-no-tiles"
+		},
+		{
+			"id": "5f91103e-b870-43a1-bbc1-ebfa22c60b49",
+			"description": null,
+			"name": "tree-sub3"
+		},
+		{
+			"id": "3ab98cf0-87ad-460e-8c19-aa3a7b53905e",
+			"description": null,
+			"name": "tree-sub3-no-tiles"
+		},
+		{
+			"id": "2042d1fc-8e0f-4840-ba5e-15c1b39edcf7",
+			"description": null,
+			"name": "tree-sub1-no-tiles"
+		},
+		{
+			"id": "0c815018-d0a9-45d8-9e25-ef6e9c4581b8",
+			"description": null,
+			"name": "tree-sub2"
+		}
+	],
+	"tilegroup_layout": [],
+	"launchpad": [
+		{
+			"id": "f93e7aa8-f054-4f76-bf65-8fde3ea91eed",
+			"name": "tree-menu-no-tiles",
+			"description": null
+		},
+		{
+			"id": "10eb4510-71ac-4e47-a6a0-dcb922287574",
+			"name": "tree-menu",
+			"description": null
+		}
+	],
+	"launchpad_layout": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"i18n": [
+		{
+			"id": "dbffb6f8-d824-4730-931a-f4f65eaa862c",
+			"name": "tree_menu",
+			"description": null
+		}
+	],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": [],
+	"theme_ui5": [],
+	"webapp": [],
+	"ui5_control": []
+}
